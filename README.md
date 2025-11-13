@@ -1,6 +1,6 @@
 # 👋 Rafael Martins
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UDF – Universidade do Distrito Federal**, com foco em desenvolvimento de software, fundamentos de computação e resolução de problemas. Busco evoluir tecnicamente e construir uma base sólida em programação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UDF – Universidade do Distrito Federal**. Busco evoluir tecnicamente e construir uma base sólida em programação.
 
 ---
 
