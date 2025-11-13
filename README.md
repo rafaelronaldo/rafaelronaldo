@@ -19,7 +19,7 @@ Atualmente estudando e praticando:
 - **Python**  
 - **HTML & CSS**  
 - **Git e GitHub**  
-- **Lógica de Programação (VisualG, C e Python)**  
+- **Lógica de Programação (VisualG, C++ e Python)**  
 - **Metodologias Ágeis (noções de Scrum)**  
 
 ---
@@ -52,7 +52,6 @@ Atualmente estudando e praticando:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
