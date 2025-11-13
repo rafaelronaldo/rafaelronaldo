@@ -27,9 +27,7 @@ Atualmente estudando e praticando:
 ## 📘 Áreas de Interesse
 
 - Desenvolvimento Back-end  
-- Estruturas de Dados e Algoritmos  
-- Sistemas de Informação  
-- Boas práticas de código e versionamento  
+- Estruturas de Dados e Algoritmos    
 
 ---
 
