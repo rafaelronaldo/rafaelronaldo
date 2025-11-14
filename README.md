@@ -15,6 +15,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UDF – Univers
 
 
 <img 
+    align="left" 
     alt="PYTHON"
     title="PYTHON" 
     width="30px" 
@@ -23,6 +24,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UDF – Univers
 />
 
 <img 
+    align="left" 
     alt="C++"
     title="C++" 
     width="30px" 
@@ -30,7 +32,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UDF – Univers
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
   />
 
-<img
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -40,6 +43,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UDF – Univers
 
   
   <img 
+    align="left" 
     alt="CSS"
     title="CSS" 
     width="30px" 
@@ -49,6 +53,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UDF – Univers
 
   
   <img 
+    align="left" 
     alt="VSCODE"
     title="VSCODE" 
     width="30px" 
