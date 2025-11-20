@@ -67,12 +67,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UDF – Centro 
           
 ---
 
-## 📘 Áreas de Interesse
 
-- Desenvolvimento Back-end  
-- Estruturas de Dados e Algoritmos    
-
----
 
 ## 🎯 Objetivos Profissionais
 
