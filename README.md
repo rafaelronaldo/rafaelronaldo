@@ -7,7 +7,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UDF – Centro 
 ## 🎓 Formação Acadêmica
 
 **Análise e Desenvolvimento de Sistemas – UDF**  
-*Em andamento - Segundo Semestre*
+*Em andamento - Terceiro Semestre*
 
 ---
 
