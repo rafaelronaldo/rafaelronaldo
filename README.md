@@ -79,6 +79,15 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UDF – Centro 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=fYgHk9PCZQly&format=png&color=000000" 
     />
+
+<img
+    align="left" 
+    alt="Eclipse IDE"
+    title="Eclipse IDE" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" 
+    />  
           
           
   <br>
