@@ -73,11 +73,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UDF – Centro 
 
 <img
     align="left" 
-    alt="MYSQL"
-    title="MYSQL" 
+    alt="JAVA"
+    title="JAVA" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" 
+    src="https://img.icons8.com/?size=100&id=fYgHk9PCZQly&format=png&color=000000" 
     />
           
           
