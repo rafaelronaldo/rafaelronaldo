@@ -111,11 +111,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UDF – Centro 
 ## 📫 Contato
 
 - **LinkedIn:** *(https://www.linkedin.com/in/rafael-ronaldo)*
+
+
+
+---
+
+## 📚 Certificado
+
 - **Credly:** *(https://www.credly.com/users/rafael-martins.0d09e199)*
 - **Coursera:** *(https://www.coursera.org/account/accomplishments/verify/JLQV5HF8WJH3)*  
-
-
-
-
-
-
