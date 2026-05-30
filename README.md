@@ -118,5 +118,5 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UDF – Centro 
 
 ## 📚 Certificado
 
-- **Credly:** *(https://www.credly.com/users/rafael-martins.0d09e199)*
-- **Coursera:** *(https://www.coursera.org/account/accomplishments/verify/JLQV5HF8WJH3)*  
+- **Networkin Basics (Cisco):** *(https://www.credly.com/users/rafael-martins.0d09e199)*
+- **Technical Support Fundamentals (Google):** *(https://www.coursera.org/account/accomplishments/verify/JLQV5HF8WJH3)*  
