@@ -103,14 +103,16 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UDF – Centro 
 - Desenvolver projetos práticos para consolidar conhecimento  
 - Criar um portfólio sólido e organizado  
 - Evoluir para estágios e oportunidades na área de TI  
-- Aperfeiçoar lógica de programação e domínio de linguagens  
+ 
 
 ---
 
 
 ## 📫 Contato
 
-- **LinkedIn:** *(https://www.linkedin.com/in/rafael-ronaldo)*  
+- **LinkedIn:** *(https://www.linkedin.com/in/rafael-ronaldo)*
+- **Credly:** *(https://www.credly.com/users/rafael-martins.0d09e199)*
+- **Coursera:** *(https://www.coursera.org/account/accomplishments/verify/JLQV5HF8WJH3)*  
 
 
 
